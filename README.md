@@ -1,4 +1,4 @@
-# serverless-gas-station
+# serverless-gas-oracle
 
 Have you ever used a public gas station but get "FeeTooLow" errors? 
 Have you had to use a hardcoded `gasPrice` value because testnets don't host a gas station? 
